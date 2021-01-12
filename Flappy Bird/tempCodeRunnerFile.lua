@@ -1,0 +1,1 @@
+['pause'] = love.audio.newSource('hurt.wav', 'static'),
